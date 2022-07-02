@@ -35,10 +35,12 @@ The RMSE or Root Mean Squared Error had the least error difference in dollars. A
 #### Visual 1 - Outlet Sales by Outlet Locations
 ![My Image](https://github.com/Jonny-T87/Dojo-Projects/blob/main/OutletSales_OutletLocation.png)
 
-> Sentence about visualization.
+> Showing Outlet Sales in $ by Outlet Locations. Tier 2 and Tier 3 have higher sales than Tier 1 and there is a large difference.
 > 
 #### Visual 2 - Item Store Sales and Price by Outlet Type
 ![My Image](https://github.com/Jonny-T87/Dojo-Projects/blob/main/OutletSales_ItemMRP.png)
+> Grocery Stores have less Sales per Item MRP. Overall, SuperMarket Type 3 has the most Sales per Item MRP.
+> 
 
 ## Model
 
