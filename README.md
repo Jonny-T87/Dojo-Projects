@@ -58,6 +58,7 @@ This model and metrics together would solve many complex business problems, such
 
 I would recommend more features be included to the model so that test data predictions can be a little more accurate. This would also avoid a high bias and underfitting of the data. 
 
+This model should be used because it accurately predicts 56% of the sales data, which is great since max is just around that. Due, to the correlation of the data. 
 
 ### For further information
 
