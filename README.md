@@ -3,6 +3,10 @@
 
 **Jonny Tesfahun**: 
 
+### Business goal:
+
+The goal of the data is to predict sales.
+
 ### Business problem:
 
 How many Items does an Outlet sell based on Item MRPs?\
